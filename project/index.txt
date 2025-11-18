@@ -1,0 +1,6 @@
+HEAD
+Initial content for feature-1
+Initial content
+Some changes in nested branch
+Some new content
+feature-1
